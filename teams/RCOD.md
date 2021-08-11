@@ -16,7 +16,7 @@
 
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
-| [@ugaemi](https://github.com/ugaemi) | *링크를 남겨주세요* |
+| [@ugaemi](https://github.com/ugaemi) | [ugaemi](https://user-images.githubusercontent.com/39613477/129036116-a80449bc-befb-430a-894d-9a2f806e51df.png) |
 | [@tudiiii](https://github.com/tudiiii) | *링크를 남겨주세요* |
 | [@saebak](https://github.com/saebak) | *링크를 남겨주세요* |
 | [@hyun-jii](https://github.com/hyun-jii) | *링크를 남겨주세요* |
